@@ -49,9 +49,8 @@ const TopBar = () => {
             size={20}
             className="mr-2 text-[var(--primary-dark)]"
           />
-          <p className="text-sm text-gray-700">081239968469</p>
+          <p className="text-sm text-gray-700">+62 812-3996-8469</p>
         </div>
-        <button className="rounded">Get a Free Quote</button>
       </div>
     </div>
   );
