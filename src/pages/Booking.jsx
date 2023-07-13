@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState } from "react";
 
 const Booking = () => {
   const [Destination, setDestination] = useState('');
@@ -69,4 +69,4 @@ const Booking = () => {
   )
 }
 
-export default Booking
+export default Booking;

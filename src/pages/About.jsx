@@ -26,9 +26,8 @@ const About = () => {
 					</p>
 				</div>
 			</div>
-			<div className="max-w-[1140px] m-auto w-full p-4 py-16"></div>
 		</div>
 	);
 };
 
-export default About;
+export default About
